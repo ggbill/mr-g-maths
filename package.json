@@ -31,7 +31,7 @@
     "dotenv": "^8.2.0",
     "ftp": "^0.3.10",
     "history": "^4.10.1",
-    "node-sass": "^4.14.0",
+    "node-sass": "^7.0.0",
     "promise-retry": "^1.1.1",
     "react-bootstrap": "^1.0.1",
     "react-ga": "^2.7.0",
